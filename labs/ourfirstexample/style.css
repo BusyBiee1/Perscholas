@@ -1,0 +1,16 @@
+.parent {
+    border: sold blue;
+    height: 45px;
+
+}
+.son{
+    bordeer:solid green;
+    margin:1em;
+    height:12px;
+}
+.daughter{
+        bordeer:solid red;
+        margin:1em;
+        height:12px;
+}
+
